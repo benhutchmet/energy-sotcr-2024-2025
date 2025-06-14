@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ben folders
+ben_downloading_data/
+ben_test_data/
+
 # C extensions
 *.so
 
