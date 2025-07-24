@@ -174,3 +174,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 faults/fault_data/*.nc
+plots/.DS_Store
